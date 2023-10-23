@@ -1,2 +1,2 @@
-# oClock-projects
-All the links, all the projects.
+# Packages List
+Brace **npm** and **yarn** with those wonderfull packages !
